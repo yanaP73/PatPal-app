@@ -33,7 +33,7 @@
         <function_definition/>
         <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <max_length>40</max_length>
         <name>x_1129772_petpal_pet_s_records</name>
         <next_element/>
@@ -58,7 +58,7 @@
         <sys_scope display_value="PetPal">498ab52d470cd61039796d1f316d432c</sys_scope>
         <sys_update_name>sys_dictionary_x_1129772_petpal_pet_s_records_email</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-08-16 01:49:31</sys_updated_on>
+        <sys_updated_on>2024-08-16 16:19:12</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
