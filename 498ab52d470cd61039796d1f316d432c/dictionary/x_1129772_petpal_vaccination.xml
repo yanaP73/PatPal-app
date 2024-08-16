@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5cf831bd47c0521039796d1f316d4388" extends="x_1129772_petpal_pet_s_records" label="Vaccination" max_length="40" name="x_1129772_petpal_vaccination" type="collection">
+        <element label="Rabies" max_length="255" name="rabies" type="glide_date"/>
+        <element label="Distemper" max_length="255" name="distemper" type="glide_date"/>
+        <element choice="1" label="Type of Vaccine" max_length="40" name="type_of_vaccine" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>

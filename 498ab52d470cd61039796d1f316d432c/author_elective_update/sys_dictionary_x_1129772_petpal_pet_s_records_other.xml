@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="other" table="x_1129772_petpal_pet_s_records">
+        <active>true</active>
+        <array>false</array>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Other, if not listed</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>other</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="String">string</internal_type>
+        <mandatory>true</mandatory>
+        <max_length>40</max_length>
+        <name>x_1129772_petpal_pet_s_records</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-16 01:58:50</sys_created_on>
+        <sys_id>a44286a147ccd61039796d1f316d433d</sys_id>
+        <sys_name>Other, if not listed</sys_name>
+        <sys_package display_value="PetPal" source="x_1129772_petpal">498ab52d470cd61039796d1f316d432c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PetPal">498ab52d470cd61039796d1f316d432c</sys_scope>
+        <sys_update_name>sys_dictionary_x_1129772_petpal_pet_s_records_other</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-16 16:23:50</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="PetPal">498ab52d470cd61039796d1f316d432c</application>
+        <file_path/>
+        <instance_id>c169ee6edba6b15038f117291396191a</instance_id>
+        <instance_name>dev217692</instance_name>
+        <name>sys_dictionary_x_1129772_petpal_pet_s_records_other</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="other" table="x_1129772_petpal_pet_s_records"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Other, if not listed</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>other</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>true</mandatory><max_length>40</max_length><name>x_1129772_petpal_pet_s_records</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-16 01:58:50</sys_created_on><sys_id>a44286a147ccd61039796d1f316d433d</sys_id><sys_name>Other, if not listed</sys_name><sys_package display_value="PetPal" source="x_1129772_petpal">498ab52d470cd61039796d1f316d432c</sys_package><sys_policy/><sys_scope display_value="PetPal">498ab52d470cd61039796d1f316d432c</sys_scope><sys_update_name>sys_dictionary_x_1129772_petpal_pet_s_records_other</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-16 16:23:50</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>1166499069</payload_hash>
+        <record_name>Pet's Records.Other, if not listed</record_name>
+        <reverted_from/>
+        <source>546eb529474cd61039796d1f316d4354</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-16 16:23:50</sys_created_on>
+        <sys_id>6738457d4780121039796d1f316d43f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1915c00a0370000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-16 16:23:50</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>eb38457d0b8012106cb31d8a15d0acf8</update_guid>
+        <update_guid_history>eb38457d0b8012106cb31d8a15d0acf8:1166499069,344286a13bccd6106033ef9aed55d9c2:-920349949,b84286a11bccd6108aa8c5ce345c8c70:821793177,92e7312939c8d610d3d44cb5f1900bca:1485689642,385194ad678856108b212c941e631baa:0,a6f01ce92f8856106d302844e2096def:1485689642,137980a11a0856106fbb355a1e9f585c:0,10a740651cc45610b3d0b66806a4bcba:1485689642,dc399ef02208521088d61f18553e1597:2057344630,90399ef0e70852102f239b5e576b688f:305283392</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-16 20:05:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>19b36637ee0e4c3c9be7ae89486c7910</sys_id>
+        <sys_metadata>a44286a147ccd61039796d1f316d433d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Other, if not listed</sys_name>
+        <sys_package display_value="PetPal" source="x_1129772_petpal">498ab52d470cd61039796d1f316d432c</sys_package>
+        <sys_parent display_value="Pet's Records">49cab5ad470cd61039796d1f316d437e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="PetPal">498ab52d470cd61039796d1f316d432c</sys_scope>
+        <sys_scope_delete display_value="">06318564d80a4efc81ae7c235824f331</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_1129772_petpal_pet_s_records_other</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_1129772_petpal_pet_s_records_other">6738457d4780121039796d1f316d43f9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-16 20:05:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

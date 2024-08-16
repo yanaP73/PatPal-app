@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1129772_petpal.vaccinations_user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>vaccinations_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-16 17:31:03</sys_created_on>
+        <sys_id>d4a7ddf94744121039796d1f316d43e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1129772_petpal.vaccinations_user</sys_name>
+        <sys_package display_value="PetPal" source="x_1129772_petpal">498ab52d470cd61039796d1f316d432c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PetPal">498ab52d470cd61039796d1f316d432c</sys_scope>
+        <sys_update_name>sys_user_role_d4a7ddf94744121039796d1f316d43e2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-16 17:31:03</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="PetPal">498ab52d470cd61039796d1f316d432c</application>
+        <file_path/>
+        <instance_id>c169ee6edba6b15038f117291396191a</instance_id>
+        <instance_name>dev217692</instance_name>
+        <name>sys_user_role_d4a7ddf94744121039796d1f316d43e2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_1129772_petpal.vaccinations_user</name><scoped_admin>false</scoped_admin><suffix>vaccinations_user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-16 17:31:03</sys_created_on><sys_id>d4a7ddf94744121039796d1f316d43e2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1129772_petpal.vaccinations_user</sys_name><sys_package display_value="PetPal" source="x_1129772_petpal">498ab52d470cd61039796d1f316d432c</sys_package><sys_policy/><sys_scope display_value="PetPal">498ab52d470cd61039796d1f316d432c</sys_scope><sys_update_name>sys_user_role_d4a7ddf94744121039796d1f316d43e2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-16 17:31:03</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>635246887</payload_hash>
+        <record_name>x_1129772_petpal.vaccinations_user</record_name>
+        <reverted_from/>
+        <source>546eb529474cd61039796d1f316d4354</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-16 17:31:04</sys_created_on>
+        <sys_id>14a7d5bd47c4121039796d1f316d4325</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1915c3e2c700000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-16 17:31:04</sys_updated_on>
+        <type>Role</type>
+        <update_guid>d4a7d5bdbfc41210cb44bf74b99a0e24</update_guid>
+        <update_guid_history>d4a7d5bdbfc41210cb44bf74b99a0e24:635246887</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1129772_petpal.vaccinations_user">e4172d71478c121039796d1f316d43d0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-16 18:38:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>38125eb4a68441609b85daf4622ee0b9</sys_id>
+        <sys_metadata>d4a7ddf94744121039796d1f316d43e2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1129772_petpal.vaccinations_user</sys_name>
+        <sys_package display_value="PetPal" source="x_1129772_petpal">498ab52d470cd61039796d1f316d432c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="PetPal">498ab52d470cd61039796d1f316d432c</sys_scope>
+        <sys_scope_delete display_value="">06318564d80a4efc81ae7c235824f331</sys_scope_delete>
+        <sys_update_name>sys_user_role_d4a7ddf94744121039796d1f316d43e2</sys_update_name>
+        <sys_update_version display_value="sys_user_role_d4a7ddf94744121039796d1f316d43e2">14a7d5bd47c4121039796d1f316d4325</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-16 18:38:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

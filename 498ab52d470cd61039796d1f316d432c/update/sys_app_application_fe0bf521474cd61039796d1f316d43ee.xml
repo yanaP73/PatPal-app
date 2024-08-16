@@ -14,16 +14,16 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>fe0bf521474cd61039796d1f316d43ee</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Pet's Records</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PetPal</sys_name>
         <sys_overrides/>
         <sys_package display_value="PetPal" source="x_1129772_petpal">498ab52d470cd61039796d1f316d432c</sys_package>
         <sys_policy/>
         <sys_scope display_value="PetPal">498ab52d470cd61039796d1f316d432c</sys_scope>
         <sys_update_name>sys_app_application_fe0bf521474cd61039796d1f316d43ee</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-08-16 01:27:19</sys_updated_on>
-        <title>Pet's Records</title>
+        <sys_updated_on>2024-08-16 18:29:27</sys_updated_on>
+        <title>PetPal</title>
         <view_name/>
     </sys_app_application>
 </record_update>
