@@ -28,6 +28,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-08-16 01:58:53</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-16 16:45:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9a4dcd314704121039796d1f316d43dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1129772_petpal_pet_s_records" name="x_1129772_petpal_pet_s_records" sys_domain="global" view="Default view">c9420aa147ccd61039796d1f316d4304</sys_ui_form>
+            <sys_ui_section caption="Upload your documents" display_value="Upload your documents" name="x_1129772_petpal_pet_s_records" sys_domain="global" view="Default view">564dcd314704121039796d1f316d43d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-16 16:45:52</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_1129772_petpal_pet_s_records</name>
             <roles/>

@@ -6,7 +6,9 @@
         <element label="Date of Birth" max_length="255" name="date_of_birth" type="glide_date"/>
         <element label="Name" mandatory="true" max_length="40" name="name" type="string"/>
         <element label="Breed" max_length="40" name="breed" type="string"/>
+        <element label="Attachment 3" max_length="255" name="attachment_0" type="file_attachment"/>
         <element label="Email" mandatory="true" max_length="40" name="email" type="string"/>
+        <element label="Attachment 4" max_length="40" name="attachment_3" type="file_attachment"/>
         <element label="Telephone#" mandatory="true" max_length="10" name="telephone" type="string"/>
         <element label="Owner's Name" mandatory="true" max_length="40" name="owner_s_name" type="string"/>
         <element choice="3" default="Male" label="Sex" mandatory="true" max_length="40" name="sex" type="choice">
@@ -17,7 +19,9 @@
             </choice>
         </element>
         <element label="Other, if not listed" mandatory="true" max_length="40" name="other" type="string"/>
+        <element label="Attachment 1" max_length="255" name="attachment_1" type="file_attachment"/>
         <element label="Address" mandatory="true" max_length="100" name="address" type="string"/>
+        <element label="Attachment 2" max_length="255" name="attachment_2" type="file_attachment"/>
         <element label="Color(s)" mandatory="true" max_length="40" name="color_s" type="string"/>
         <element choice="3" default="Please Select" label="Species" mandatory="true" max_length="40" name="species" type="choice">
             <choice>
