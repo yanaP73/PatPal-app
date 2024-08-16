@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="name" table="x_1129772_petpal_pet_s_records">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="color_s" table="x_1129772_petpal_pet_s_records">
         <active>true</active>
         <array>false</array>
         <attributes/>
@@ -8,7 +8,7 @@
         <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Name</column_label>
+        <column_label>Color(s)</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -21,7 +21,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>name</element>
+        <element>color_s</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
@@ -46,14 +46,14 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-08-16 01:58:50</sys_created_on>
-        <sys_name>Name</sys_name>
+        <sys_created_on>2024-08-16 16:13:09</sys_created_on>
+        <sys_name>Color(s)</sys_name>
         <sys_package display_value="PetPal" source="x_1129772_petpal">498ab52d470cd61039796d1f316d432c</sys_package>
         <sys_policy/>
         <sys_scope display_value="PetPal">498ab52d470cd61039796d1f316d432c</sys_scope>
-        <sys_update_name>sys_dictionary_x_1129772_petpal_pet_s_records_name</sys_update_name>
+        <sys_update_name>sys_dictionary_x_1129772_petpal_pet_s_records_color_s</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-08-16 16:13:13</sys_updated_on>
+        <sys_updated_on>2024-08-16 16:13:12</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
