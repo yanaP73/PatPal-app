@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Pet's Information" section_id="81420aa147ccd61039796d1f316d4303" sys_domain="global" table="x_1129772_petpal_pet_s_records" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-16 01:58:53</sys_created_on>
+            <sys_id>11420aa147ccd61039796d1f316d4380</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pet's Information" display_value="Pet's Information" name="x_1129772_petpal_pet_s_records" sys_domain="global" view="Default view">81420aa147ccd61039796d1f316d4303</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-16 01:58:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>breed</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-16 01:58:53</sys_created_on>
+            <sys_id>19420aa147ccd61039796d1f316d4380</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pet's Information" display_value="Pet's Information" name="x_1129772_petpal_pet_s_records" sys_domain="global" view="Default view">81420aa147ccd61039796d1f316d4303</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-16 01:58:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-16 01:58:53</sys_created_on>
+            <sys_id>11420aa147ccd61039796d1f316d4381</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pet's Information" display_value="Pet's Information" name="x_1129772_petpal_pet_s_records" sys_domain="global" view="Default view">81420aa147ccd61039796d1f316d4303</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-16 01:58:53</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>species</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-16 01:58:53</sys_created_on>
+            <sys_id>19420aa147ccd61039796d1f316d4381</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pet's Information" display_value="Pet's Information" name="x_1129772_petpal_pet_s_records" sys_domain="global" view="Default view">81420aa147ccd61039796d1f316d4303</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-16 01:58:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>other</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-16 01:58:53</sys_created_on>
+            <sys_id>11420aa147ccd61039796d1f316d4382</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pet's Information" display_value="Pet's Information" name="x_1129772_petpal_pet_s_records" sys_domain="global" view="Default view">81420aa147ccd61039796d1f316d4303</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-16 01:58:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Pet's Information</caption>
+            <header>false</header>
+            <name>x_1129772_petpal_pet_s_records</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-16 01:58:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>81420aa147ccd61039796d1f316d4303</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1129772_petpal_pet_s_records</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="PetPal" source="x_1129772_petpal">498ab52d470cd61039796d1f316d432c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PetPal">498ab52d470cd61039796d1f316d432c</sys_scope>
+            <sys_update_name>sys_ui_section_81420aa147ccd61039796d1f316d4303</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-16 01:58:52</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
