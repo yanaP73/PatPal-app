@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="ecc9c2fe4788121039796d1f316d4301" label="Vaccination" max_length="40" name="x_1129772_petpal_vaccination" type="collection">
-        <element label="Name" mandatory="true" max_length="32" name="name" reference="x_1129772_petpal_pet_s_records" reference_qual="nam0STARTSWITHMerc^EQ" reference_qual_condition="nam0STARTSWITHMerc^EQ" type="reference" use_dependent_field="true"/>
-        <element label="Owner's Name" max_length="32" name="owner_s_name" reference="x_1129772_petpal_pet_s_records" reference_qual="Owner's Name" reference_qual_condition="Owner's Name" type="reference"/>
+        <element label="Owner's Name" max_length="32" name="owner_s_name" reference="x_1129772_petpal_pet_s_records" reference_qual="owner_s_nameSAMEASowner_s_name^EQ" reference_qual_condition="owner_s_nameSAMEASowner_s_name^EQ" type="reference"/>
         <index name="index">
-            <element name="name"/>
-        </index>
-        <index name="index2">
             <element name="owner_s_name"/>
         </index>
     </element>
