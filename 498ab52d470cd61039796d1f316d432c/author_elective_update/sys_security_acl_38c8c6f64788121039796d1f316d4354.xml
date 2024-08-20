@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <condition/>
+        <description>Default access control on x_1129772_petpal_vaccination</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1129772_petpal_vaccination</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-19 23:39:39</sys_created_on>
+        <sys_id>38c8c6f64788121039796d1f316d4354</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1129772_petpal_vaccination</sys_name>
+        <sys_package display_value="PetPal" source="x_1129772_petpal">498ab52d470cd61039796d1f316d432c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PetPal">498ab52d470cd61039796d1f316d432c</sys_scope>
+        <sys_update_name>sys_security_acl_38c8c6f64788121039796d1f316d4354</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-19 23:39:39</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="PetPal">498ab52d470cd61039796d1f316d432c</application>
+        <file_path/>
+        <instance_id>c169ee6edba6b15038f117291396191a</instance_id>
+        <instance_name>dev217692</instance_name>
+        <name>sys_security_acl_38c8c6f64788121039796d1f316d4354</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>true</advanced><condition/><description>Default access control on x_1129772_petpal_vaccination</description><local_or_existing>Local</local_or_existing><name>x_1129772_petpal_vaccination</name><operation display_value="write">write</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-19 23:39:39</sys_created_on><sys_id>38c8c6f64788121039796d1f316d4354</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1129772_petpal_vaccination</sys_name><sys_package display_value="PetPal" source="x_1129772_petpal">498ab52d470cd61039796d1f316d432c</sys_package><sys_policy/><sys_scope display_value="PetPal">498ab52d470cd61039796d1f316d432c</sys_scope><sys_update_name>sys_security_acl_38c8c6f64788121039796d1f316d4354</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-19 23:39:39</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>505368761</payload_hash>
+        <record_name>x_1129772_petpal_vaccination</record_name>
+        <reverted_from/>
+        <source>546eb529474cd61039796d1f316d4354</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-19 23:39:39</sys_created_on>
+        <sys_id>78c8c6f64788121039796d1f316d4358</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1916d02b3770000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-19 23:39:39</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>7cc8c6f6368812105cb68ea0532f2257</update_guid>
+        <update_guid_history>7cc8c6f6368812105cb68ea0532f2257:505368761</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-19 23:43:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>77d1124203c241d08a274f814e6ed900</sys_id>
+        <sys_metadata>38c8c6f64788121039796d1f316d4354</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1129772_petpal_vaccination</sys_name>
+        <sys_package display_value="PetPal" source="x_1129772_petpal">498ab52d470cd61039796d1f316d432c</sys_package>
+        <sys_parent display_value="">b8c8c6f64788121039796d1f316d438a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="PetPal">498ab52d470cd61039796d1f316d432c</sys_scope>
+        <sys_scope_delete display_value="">06318564d80a4efc81ae7c235824f331</sys_scope_delete>
+        <sys_update_name>sys_security_acl_38c8c6f64788121039796d1f316d4354</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_38c8c6f64788121039796d1f316d4354">78c8c6f64788121039796d1f316d4358</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-19 23:43:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

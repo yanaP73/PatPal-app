@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="49cab5ad470cd61039796d1f316d437e" label="Pet's Records" max_length="40" name="x_1129772_petpal_pet_s_records" type="collection">
-        <element label="Microchip #" max_length="40" name="microchip" type="string"/>
-        <element label="Please Upload Microchip Certificate (If Available)" max_length="255" name="please_upload_microchip_certificate_if_available" type="file_attachment"/>
-        <element label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element label="Microchip # (If Available)" max_length="40" name="microchip" type="string"/>
+        <element label="Phone#" max_length="10" name="phone" type="string"/>
+        <element label="Neutered/Spayed" max_length="255" name="neutered_spayed" type="boolean"/>
+        <element label="Address" max_length="100" name="address" type="string"/>
         <element label="Owner's Name" mandatory="true" max_length="40" name="owner_s_name" type="string"/>
         <element choice="3" default="Male" label="Sex" mandatory="true" max_length="40" name="sex" type="choice">
             <choice>
@@ -11,8 +12,8 @@
                 <element inactive_on_update="false" label="I don't know" sequence="2" value="I don't know"/>
             </choice>
         </element>
-        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
         <element label="Color(s)" mandatory="true" max_length="40" name="color_s" type="string"/>
+        <element label="Name" mandatory="true" max_length="40" name="nam0" type="string"/>
         <element choice="3" default="Please Select" label="Species" mandatory="true" max_length="40" name="species" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Other" sequence="4" value="Other"/>
@@ -22,8 +23,5 @@
                 <element inactive_on_update="false" label="Hamster" sequence="3" value="Hamster"/>
             </choice>
         </element>
-        <index name="index">
-            <element name="sys_class_name"/>
-        </index>
     </element>
 </database>

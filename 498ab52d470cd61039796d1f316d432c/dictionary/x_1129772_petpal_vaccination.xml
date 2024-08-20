@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="5cf831bd47c0521039796d1f316d4388" extends="x_1129772_petpal_pet_s_records" label="Vaccination" max_length="40" name="x_1129772_petpal_vaccination" type="collection">
-        <element label="Rabies" max_length="255" name="rabies" type="glide_date"/>
-        <element label="Distemper" max_length="255" name="distemper" type="glide_date"/>
-        <element choice="1" label="Type of Vaccine" max_length="40" name="type_of_vaccine" type="choice">
-            <choice/>
-        </element>
+    <element db_object_id="ecc9c2fe4788121039796d1f316d4301" label="Vaccination" max_length="40" name="x_1129772_petpal_vaccination" type="collection">
+        <element label="Name" mandatory="true" max_length="32" name="name" reference="x_1129772_petpal_pet_s_records" reference_qual="nam0STARTSWITHMerc^EQ" reference_qual_condition="nam0STARTSWITHMerc^EQ" type="reference" use_dependent_field="true"/>
+        <element label="Owner's Name" max_length="32" name="owner_s_name" reference="x_1129772_petpal_pet_s_records" reference_qual="Owner's Name" reference_qual_condition="Owner's Name" type="reference"/>
+        <index name="index">
+            <element name="name"/>
+        </index>
+        <index name="index2">
+            <element name="owner_s_name"/>
+        </index>
     </element>
 </database>

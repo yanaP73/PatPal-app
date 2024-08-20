@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>please_upload_microchip_certificate_if_available</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-16 16:17:44</sys_created_on>
+        <sys_id>5ad641f14780121039796d1f316d437c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>please_upload_microchip_certificate_if_available</sys_name>
+        <sys_package display_value="PetPal" source="x_1129772_petpal">498ab52d470cd61039796d1f316d432c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PetPal">498ab52d470cd61039796d1f316d432c</sys_scope>
+        <sys_update_name>sys_ui_policy_action_5ad641f14780121039796d1f316d437c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-16 16:17:44</sys_updated_on>
+        <table>x_1129772_petpal_pet_s_records</table>
+        <ui_policy display_value="If Microchip# filled in, File Attachment appears ">06d6cdb14780121039796d1f316d43d0</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="DELETE" query="documentkey=5ad641f14780121039796d1f316d437c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="PetPal">498ab52d470cd61039796d1f316d432c</application>
+        <file_path/>
+        <instance_id>c169ee6edba6b15038f117291396191a</instance_id>
+        <instance_name>dev217692</instance_name>
+        <name>sys_ui_policy_action_5ad641f14780121039796d1f316d437c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>please_upload_microchip_certificate_if_available</field><field_message/><field_message_type>none</field_message_type><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-16 16:17:44</sys_created_on><sys_id>5ad641f14780121039796d1f316d437c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>please_upload_microchip_certificate_if_available</sys_name><sys_package display_value="PetPal" source="x_1129772_petpal">498ab52d470cd61039796d1f316d432c</sys_package><sys_policy/><sys_scope display_value="PetPal">498ab52d470cd61039796d1f316d432c</sys_scope><sys_update_name>sys_ui_policy_action_5ad641f14780121039796d1f316d437c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-16 16:17:44</sys_updated_on><table>x_1129772_petpal_pet_s_records</table><ui_policy display_value="If Microchip# filled in, File Attachment appears ">06d6cdb14780121039796d1f316d43d0</ui_policy><value/><value_action>ignore</value_action><visible>true</visible></sys_ui_policy_action><sys_translated_text action="delete_multiple" query="documentkey=5ad641f14780121039796d1f316d437c"/></record_update>]]></payload>
+        <payload_hash>1115351419</payload_hash>
+        <record_name>please_upload_microchip_certificate_if_available</record_name>
+        <reverted_from/>
+        <source>546eb529474cd61039796d1f316d4354</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-16 16:17:44</sys_created_on>
+        <sys_id>52d641f14780121039796d1f316d4381</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1915bfb0bb90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-16 16:17:44</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>16d641f150801210d2d1037fae6a1480</update_guid>
+        <update_guid_history>16d641f150801210d2d1037fae6a1480:1115351419</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-19 23:37:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>6b596fa10a8f45e08b0128639d01f851</sys_id>
+        <sys_metadata>5ad641f14780121039796d1f316d437c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>please_upload_microchip_certificate_if_available</sys_name>
+        <sys_package display_value="PetPal" source="x_1129772_petpal">498ab52d470cd61039796d1f316d432c</sys_package>
+        <sys_parent display_value="If Microchip# filled in, File Attachment appears ">06d6cdb14780121039796d1f316d43d0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="PetPal">498ab52d470cd61039796d1f316d432c</sys_scope>
+        <sys_scope_delete display_value="">06318564d80a4efc81ae7c235824f331</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_5ad641f14780121039796d1f316d437c</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_5ad641f14780121039796d1f316d437c">52d641f14780121039796d1f316d4381</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-19 23:37:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
